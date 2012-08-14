@@ -1,0 +1,13 @@
+{
+	"uid": "https://github.com/sourcemint/deployer/",
+	"name": "sourcemint-deployer",
+	"version": "0.1.0",
+	"pm": "npm",
+	"dependencies": {
+        "sourcemint-util-js": "0.1.x",
+	    "sourcemint-sdk-aws": "0.1.x",
+        "sourcemint-pm-sm": "0.1.x",
+        "sourcemint-pm-rsync": "0.1.x",
+        "sourcemint-pm-ssh": "0.1.x"        
+    }
+}
